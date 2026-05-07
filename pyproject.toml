@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adversarial-robustness-cifar10"
+version = "0.1.0"
+description = "Experimental code for adversarial robustness on CIFAR-10."
+requires-python = ">=3.11"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["thesis_adversarial"]

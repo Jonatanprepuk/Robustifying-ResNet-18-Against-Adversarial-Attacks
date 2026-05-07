@@ -14,7 +14,6 @@ The main notebooks are:
 src/thesis_adversarial/   Reusable model and attack implementations
 notebooks/                Training and evaluation notebooks
 models/                   Trained model checkpoints
-data/                     CIFAR-10 data
 ```
 
 ## Models

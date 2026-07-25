@@ -2,6 +2,8 @@
 
 This repository contains the code, notebooks, and models for my bachelor thesis on adversarial robustness in image classification. The study compares standard training and adversarial training for a CIFAR-10-adapted ResNet-18 model under clean evaluation and adversarial attacks generated with FGSM and PGD.
 
+**Thesis:** [Full text (PDF)](https://www.diva-portal.org/smash/get/diva2:2066277/FULLTEXT01.pdf)
+
 ## Notebooks
 
 The main notebooks are:
